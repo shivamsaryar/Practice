@@ -26,7 +26,7 @@ class ChildClass extends ParentClass{
     //int age;
     int ID;
     ChildClass(int age, int ID){
-        //super(age);
+        //super(80);
         this.age = age;
         this.ID = ID;
     }
